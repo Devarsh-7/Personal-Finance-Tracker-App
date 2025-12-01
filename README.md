@@ -29,5 +29,3 @@ Open `index.html` in any modern browser to use the app.
 - "Danger Zone" option to clear all local data
 
 ---
-## Files
-
